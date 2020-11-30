@@ -1,0 +1,14 @@
+ch\heig\od\model\Categorie.class
+ch\heig\od\business\dao\EcommerceDaoImpl.class
+ch\heig\od\model\Commande.class
+ch\heig\od\model\Client.class
+ch\heig\od\model\Panier.class
+ch\heig\od\model\Produit.class
+ch\heig\od\model\LigneCommande.class
+ch\heig\od\presentation\Liste.class
+ch\heig\od\presentation\DetailProduct.class
+ch\heig\od\presentation\checkoutUser.class
+ch\heig\od\presentation\AjouteProuduit.class
+ch\heig\od\presentation\Home.class
+ch\heig\od\business\dao\EcommerceDao.class
+ch\heig\od\presentation\AddUser.class
